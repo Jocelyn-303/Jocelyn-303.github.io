@@ -7,7 +7,7 @@ my major is Computer Science.
 
 My GitHub page is http://github.com/Jocelyn-303.
 
-## CPSC 120
+### CPSC 120
 
 * Lab 4, part 2
 
