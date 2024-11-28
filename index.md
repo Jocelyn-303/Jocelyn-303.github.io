@@ -1,9 +1,13 @@
-# Jocelyn Salas's Portfolio
+# Hello World
 
-I am a computer science major at [Cal State Fullerton](http://www.fullerton.edu/) and I plan to graduate in 2 years.
+This is my homepage! My name is Jocelyn Salas and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and 
+my major is Computer Science.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
 
+My GitHub page is http://github.com/Jocelyn-303.
+
+## CPSC 120
 
 * Lab 4, part 2
 
